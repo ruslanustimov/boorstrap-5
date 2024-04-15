@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+    .jumbotron img {
+      height: 200px; /* Изменение высоты на мобильных устройствах */
+    }
+  }
+
+  .jumbotron img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px; /* Закругленные углы */
+  }
